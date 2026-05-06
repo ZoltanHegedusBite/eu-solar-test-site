@@ -1,55 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ai-quantum.ba/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ai-quantum.ba/" rel="alternate" type="text/html" /><updated>2026-05-06T07:56:25+00:00</updated><id>https://ai-quantum.ba/feed.xml</id><title type="html">EU Solar Teszt</title><subtitle>Website for EU Solar Teszt</subtitle><author><name>Start Bootstrap</name></author><entry><title type="html">A biodízel szerepe és jövője</title><link href="https://ai-quantum.ba/2026/02/25/a-biod-zel-szerepe-s-j-v-je.html" rel="alternate" type="text/html" title="A biodízel szerepe és jövője" /><published>2026-02-25T09:37:51+00:00</published><updated>2026-02-25T09:37:51+00:00</updated><id>https://ai-quantum.ba/2026/02/25/a-biod-zel-szerepe-s-j-v-je</id><content type="html" xml:base="https://ai-quantum.ba/2026/02/25/a-biod-zel-szerepe-s-j-v-je.html"><![CDATA[<h1 id="biodízel-ma-híd-a-fosszilis-dízel-és-a-zéró-emisszió-között">Biodízel ma: híd a fosszilis dízel és a zéró emisszió között</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ai-quantum.ba/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ai-quantum.ba/" rel="alternate" type="text/html" /><updated>2026-05-06T08:18:59+00:00</updated><id>https://ai-quantum.ba/feed.xml</id><title type="html">EU Solar Teszt</title><subtitle>Website for EU Solar Teszt</subtitle><author><name>Start Bootstrap</name></author><entry><title type="html">Legújabb napelemes technológiák 2025–2026: mi jön a TOPCon után?</title><link href="https://ai-quantum.ba/2026/04/20/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a.html" rel="alternate" type="text/html" title="Legújabb napelemes technológiák 2025–2026: mi jön a TOPCon után?" /><published>2026-04-20T07:16:18+00:00</published><updated>2026-04-20T07:16:18+00:00</updated><id>https://ai-quantum.ba/2026/04/20/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a</id><content type="html" xml:base="https://ai-quantum.ba/2026/04/20/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a.html"><![CDATA[<h1 id="legújabb-napelemes-technológiák-20252026-mire-érdemes-most-figyelni">Legújabb napelemes technológiák 2025–2026: mire érdemes most figyelni?</h1>
 
 <blockquote>
-  <p>Áttekintés a biodízel szerepéről, előállításáról, környezeti mérlegéről és jövőbeli helyéről a közlekedésben, magyar fókuszszal.</p>
+  <p>Áttekintés a 2025–2026-ra várható napelemes és energiatárolási technológiákról: hatásfok-növelés, perovszkit–szilícium tandem cellák, bifaciális és épületbe integrált rendszerek, lítium-ion és LFP akkumulátorok, valamint okos hálózati integráció. A cikk bemutatja, milyen irányok határozzák meg a vállalati és intézményi beruházások döntéseit a következő években.</p>
 </blockquote>
 
-<h2 id="miért-került-előtérbe-a-biodízel">Miért került előtérbe a biodízel?</h2>
+<h2 id="1-miért-fordulópont-a-20252026-os-időszak-a-napenergiában">1. Miért fordulópont a 2025–2026-os időszak a napenergiában?</h2>
 
-<p>A közlekedésből származó szén-dioxid-kibocsátás évtizedek óta az éghajlat-politika egyik legkritikusabb kérdése. Az 1990-es évektől a biodízel olyan alternatívává vált, amely a meglévő dízeljármű-állományt használva képes mérsékelni a kibocsátásokat. Az Európai Unió irányelvei – például a 2010-re előírt 5,75 energetikai százalékos biotartalom – világos jelzést adtak: a dízelhez biokomponensnek társulnia kell.</p>
+<p>A napenergia-piac 2025–2026-ban olyan szakaszba lép, ahol a hatásfok-növelés és az energiatárolás már nem csupán választható opció, hanem a beruházások alapvető eleme. A monokristályos és polikristályos szilícium továbbra is meghatározó marad, de a fejlesztések egyre inkább a fejlettebb cellaszerkezetek és az akkumulátoros rendszerek felé mutatnak.</p>
 
-<h2 id="mi-is-az-a-biodízel-valójában">Mi is az a biodízel valójában?</h2>
+<p>Ez a változás különösen fontos az európai klímacélok elérésében, az energiafüggetlenség erősítésében és a vállalati versenyképesség megőrzésében. A hatásfok emelése, a rendszerszintű költségek csökkentése és a decentralizált energiatermelés térnyerése együttesen alakítja a piacot.</p>
 
-<p>A biodízel növényi olajokból vagy más biológiai eredetű zsírokból előállított dízelmotor-üzemanyag. Magyarországon főként repce- és napraforgóolaj az alapja, de egyre nagyobb teret nyer a használt sütőolaj is. Kémiailag zsírsav-metilészterek keveréke, amely viselkedésében közel áll a kőolaj-alapú gázolajhoz, ezért önállóan és keverékként is felhasználható.</p>
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img1.jpg" alt="Napelemes park ipari környezetben akkumulátoros tárolóegységekkel" /></p>
 
-<h2 id="hogyan-készül-a-biodízel-lépésről-lépésre">Hogyan készül a biodízel lépésről lépésre?</h2>
+<h2 id="2-fókusz-a-hatásfokra-hová-tartanak-a-napelemcellák">2. Fókusz a hatásfokra: hová tartanak a napelemcellák?</h2>
 
-<ul>
-  <li>Olajkinyerés: a repce- vagy napraforgómagból préseléssel nyerik ki az olajat, melléktermékként takarmányozásra alkalmas pogácsa keletkezik.</li>
-  <li>Előkészítés: mechanikai szűréssel eltávolítják a szennyeződéseket, majd víztelenítik az olajat, mert a víz rontja a reakciót.</li>
-  <li>Transzészterezés: metanollal és lúgos katalizátorral reagáltatják a triglicerideket, így jön létre a biodízel és melléktermékként a glicerin.</li>
-  <li>Szétválasztás és tisztítás: gravitációs vagy centrifugális elválasztás után a biodízelt mossák, szárítják, hogy megfeleljen az EN 14214 szabványnak.</li>
-  <li>Hulladékolaj hasznosítása: begyűjtött használt sütőolajat zárt rendszerekben tisztítanak, majd ugyanebbe a technológiai láncba illesztik.</li>
-</ul>
-
-<p>Egy tonna repcemagból átlagosan mintegy 350 liter biodízel állítható elő. Az újabb eljárások a szennyezett glicerin visszaforgatásával gyakorlatilag az összes molekulát üzemanyaggá alakítják, csökkentve a nehezen elhelyezhető melléktermék mennyiségét.</p>
-
-<h2 id="előnyök-klímavédelem-és-ellátásbiztonság">Előnyök: klímavédelem és ellátásbiztonság</h2>
+<p>A 2025–2026-os időszakban a napelemcellák fejlődésének két fő célja van: a hatásfok növelése és a fajlagos költségek csökkentése. A ma elterjedt technológiák, mint a PERC, TOPCon, HIT és IBC, fokozatosan kiegészülnek új architektúrákkal és tandemmegoldásokkal.</p>
 
 <ul>
-  <li>Kedvezőbb szén-dioxid-mérleg: égetésekor nagyjából annyi CO₂ szabadul fel, amennyit a növény növekedéskor megkötött.</li>
-  <li>Gyors biológiai lebomlás: talajba kerülve néhány hét alatt lebomlik, így kiömléskor kisebb a tartós kár.</li>
-  <li>Kevesebb importfüggőség: a növényi olaj helyben is termelhető, mérsékli a politikailag bizonytalan kőolaj-exportőröktől való függést.</li>
-  <li>Hulladékcsökkentés: a használt sütőolaj begyűjtése egyszerre hulladékgazdálkodási és klímavédelmi eszköz – literenként elkerülhető akár 90 km-nyi fosszilis autózás CO₂-kibocsátása.</li>
+  <li>PERC (Passivated Emitter Rear Cell / PERL): A jelenlegi tömegpiac egyik alapmegoldása, 21–23% körüli modulhatásfokkal.</li>
+  <li>TOPCon (Tunnel Oxide Passivated Contact): Javítja az elektronok gyűjtését, várhatóan fokozatosan kiszorítja a hagyományos PERC-et a prémium szegmensben.</li>
+  <li>HIT (Heterojunction with Intrinsic Thin layer): Kiváló hőmérsékleti tulajdonságokkal rendelkezik, kedvező nagy melegben üzemelő rendszerekhez.</li>
+  <li>IBC (Interdigitated Back Contact): Az érintkezők hátoldalra helyezésével csökkenti az árnyékolást, magasabb hatásfokot kínál.</li>
+  <li>Új irányok (POLO, MWT, EWT): Céljuk a soros ellenállások és a felületi rekombináció csökkentése, ezzel tovább növelve a cellák teljesítményét.</li>
 </ul>
 
-<h2 id="kockázatok-és-vitás-pontok">Kockázatok és vitás pontok</h2>
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img2.jpg" alt="Különböző napelemcellák közelről laborasztalon" /></p>
+
+<h2 id="3-perovszkitszilícium-tandem-a-következő-nagy-lépés">3. Perovszkit–szilícium tandem: a következő nagy lépés</h2>
+
+<p>A szakmai figyelem középpontjába a perovszkit–szilícium tandem cellák kerülnek. Laboratóriumi körülmények között már 30% feletti hatásfokokat értek el, ami jelentős előrelépés a jelenlegi, jellemzően 21–23%-os modulhatásfokhoz képest.</p>
+
+<p>A 2025–2030-as időszakban fokozatos tömegpiaci belépés várható, elsőként a prémium kategóriában. A 25% körüli modulhatásfok elérése reális cél, amely ipari és nagyvállalati projektekben különösen vonzó lehet, ahol minden plusz százaléknyi termelés jelentős megtakarítást hoz hosszú távon.</p>
 
 <ul>
-  <li>Alacsonyabb energiasűrűség: több üzemanyag kell az azonos megtett úthoz, mint hagyományos dízelből.</li>
-  <li>Nagy termőterület-igény: feszültséget okozhat az élelmiszer-termeléssel, élőhely-átalakítással.</li>
-  <li>Jelentős fosszilis input: műtrágya, gépi művelés, szállítás csökkentheti a klímaelőnyt.</li>
-  <li>Magasabb nitrogén-oxid-kibocsátás: a kipufogógáz NOx-tartalma nőhet, ami levegőminőségi problémát jelent.</li>
-  <li>Műszaki kihívások: magasabb keverési arányoknál gyakoribb az üzemanyagszűrők eltömődése.</li>
+  <li>Előny: Magasabb energiatermelés azonos beépített felület mellett.</li>
+  <li>Kihívás: A perovszkit réteg hosszú távú stabilitása, időjárás- és UV-állósága.</li>
+  <li>Környezeti kérdés: Az ólommentes vagy alacsony ólomtartalmú összetételek ipari méretű alkalmazhatósága.</li>
+  <li>Piaci státusz: 2024-ben még főként pilot sorok jellemzőek, 2025–2026-ban korlátozott sorozatgyártás várható, elsősorban ázsiai nagyvállalatoknál.</li>
 </ul>
 
-<h2 id="magyar-fókusz-repce-napraforgó-és-használt-olaj">Magyar fókusz: repce, napraforgó és használt olaj</h2>
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img3.jpg" alt="Mérnök perovszkit–szilícium tandem napelemcellát vizsgál laborban" /></p>
 
-<p>Magyarország agrár-ökológiai adottságai kedveznek a repce és a napraforgó termelésének, így ezek adják a biodízel hazai gerincét. A repce jól illeszkedik a vetésforgóba, a napraforgó gyengébb talajokon is elfogadható hozamot ad. Emellett a Biofilter Zrt. és partnerei – például a MOL és egyes töltőállomás-hálózatok – olyan gyűjtőhálózatot építettek ki, amely a háztartási sütőolajat másodlagos nyersanyaggá emeli.</p>
+<h2 id="4-modultrendek-bifaciális-rugalmas-és-épületbe-integrált-megoldások">4. Modultrendek: bifaciális, rugalmas és épületbe integrált megoldások</h2>
 
-<h2 id="biodízel-a-jövő-közlekedésében-átmeneti-de-szükséges-híd">Biodízel a jövő közlekedésében: átmeneti, de szükséges híd</h2>
+<p>A következő évek modulfejlesztései nemcsak a hatásfokra, hanem a beépíthetőségre és az építészeti integrációra is koncentrálnak. A cél, hogy a napelem ne csak energetikai, hanem esztétikai és funkcionális elem is legyen az épületeken és az ipari létesítményeken.</p>
 
-<p>Hosszabb távon várható, hogy a közlekedés fő energiahordozója a hidrogén és más zéró emissziós megoldások felé tolódik el. Addig azonban a biodízel fontos átmeneti eszköz lehet: csökkenti a fosszilis dízel arányát, a meglévő dízeljármű-flotta nagy részével kompatibilis, és megfelelő alapanyag-választással mérsékelheti a földhasználati terhelést. A döntéshozók és az iparági szereplők felelőssége, hogy a biodízel ebben az átmenetben valóban a klímacélokat szolgálja, ne pedig új környezeti konfliktusokat teremtsen.</p>]]></content><author><name>Start Bootstrap</name></author><summary type="html"><![CDATA[Áttekintés a biodízel szerepéről, előállításáról, környezeti mérlegéről és jövőbeli helyéről a közlekedésben, magyar fókuszszal.]]></summary></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="https://ai-quantum.ba/2020/01/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2020-01-31T14:45:13+00:00</published><updated>2020-01-31T14:45:13+00:00</updated><id>https://ai-quantum.ba/2020/01/31/man-must-explore</id><content type="html" xml:base="https://ai-quantum.ba/2020/01/31/man-must-explore.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<ul>
+  <li>Bifaciális panelek: Ipari és nagyvállalati rendszerekben egyre inkább alapfelszereltség. Megfelelő terepi kialakítással 5–15% többlethozam érhető el a hátoldali besugárzásnak köszönhetően.</li>
+  <li>Rugalmas és részben átlátszó modulok: Könnyűszerkezetes tetőkön, homlokzatokon, parkolófedéseken új telepítési opciókat teremtenek.</li>
+  <li>BIPV (épületbe integrált fotovoltaika): Napelemes tetőcserepek, színezett és átlátszó PV üvegek, homlokzati megoldások. 2025–2026-ban még drágábbak, de egyre gyakrabban jelennek meg irodaházak, logisztikai központok és nagyvárosi fejlesztések tenderein.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img4.jpg" alt="Üveg homlokzatú irodaépület integrált napelemekkel" /></p>
+
+<h2 id="5-az-energiatárolás-szerepe-a-napenergia-mellől-a-rendszer-középpontjába">5. Az energiatárolás szerepe: a napenergia mellől a rendszer középpontjába</h2>
+
+<p>A napelemes rendszerek mellé telepített akkumulátorok piaca dinamikusan bővül. A lítium-ion technológia költségei évről évre csökkennek, miközben energiasűrűségük és várható élettartamuk nő. Ezáltal mind háztartási, mind ipari szinten valós alternatívát jelentenek az önfogyasztás növelésére.</p>
+
+<ul>
+  <li>Fő célok:</li>
+  <li>Önfelhasználás maximalizálása.</li>
+  <li>Hálózat tehermentesítése, csúcsterhelés csökkentése.</li>
+  <li>Nagyobb függetlenség az energiaszolgáltatótól és a piaci áraktól.</li>
+  <li>Fő technológiák:</li>
+  <li>Lítium-ion rendszerek széles körű elterjedése.</li>
+  <li>Lítium–vas–foszfát (LFP) akkumulátorok dominanciája a háztartási szegmensben biztonsági és költségmegfontolásokból.</li>
+  <li>Szilárdtest akkumulátorok várható megjelenése demonstrációs és prémium projektekben 2025–2026 között.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img5.jpg" alt="Háztartási akkumulátor falra szerelve napelemes inverter mellett" /></p>
+
+<p>Az akkumulátor-menedzsment rendszerek (BMS) fejlődése szintén kulcstényező. A pontosabb töltöttségi és egészségi állapot-becslés, valamint az optimalizált töltési ciklusok nemcsak a mindennapi üzemeltetést teszik kiszámíthatóbbá, hanem növelik a ciklusszámot és csökkentik a teljes életciklus-költséget is.</p>
+
+<h2 id="6-okos-hálózat-virtuális-erőművek-és-szabályozhatóság">6. Okos hálózat, virtuális erőművek és szabályozhatóság</h2>
+
+<p>Az energiahálózatok digitalizációja szorosan összefonódik a napelemes rendszerekkel. Az internetre kapcsolt eszközök és az intelligens vezérlés lehetővé teszik, hogy a sok kisméretű fotovoltaikus rendszer együtt, aggregált formában lépjen fel a villamosenergia-piacon.</p>
+
+<ul>
+  <li>Kulcselemek:</li>
+  <li>Okos mérők: Pontos, időalapú fogyasztási és termelési adatok.</li>
+  <li>Modulonkénti optimalizálók: Finomhangolt teljesítmény, árnyékolás-kezelés.</li>
+  <li>Felhőalapú monitoring: Távoli felügyelet, prediktív karbantartás.</li>
+  <li>Eredmény:</li>
+  <li>A sok kis PV-rendszer egyfajta „virtuális erőműként” tud részt venni a piacon.</li>
+  <li>Lehetővé válik rugalmassági szolgáltatások nyújtása, például frekvenciaszabályozás vagy csúcsvágás.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img6.jpg" alt="Energiaközpont monitorfalon napelemes és akkumulátoros rendszerek felügyeletével" /></p>
+
+<h2 id="7-piaci-és-szabályozási-környezet-európai-trendek-és-árak">7. Piaci és szabályozási környezet: európai trendek és árak</h2>
+
+<p>Az Európai Unió zöld megállapodása, a karbonsemlegességi célok és az energiafüggetlenség iránti igény közösen emelik a napenergia szerepét. A helyben termelt villamos energia értéke nő, különösen az orosz energiáról való fokozatos leválás fényében, amely bár költséges folyamat, hosszú távon elkerülhetetlen.</p>
+
+<p>A napelem- és akkumulátorárakat 2026-ra már most erősen befolyásolják a globális beszerzési láncok átrendeződései. A kínai és indiai gyártókapacitások bővülése, valamint az európai gyárépítések versenyt teremtenek, ami jellemzően az árak csökkenésének, a minőségi elvárások emelkedésének és a technológiai színvonal gyorsuló fejlődésének kedvez.</p>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img7.jpg" alt="Európa térképe megújuló energia és gyár ikonokkal" /></p>
+
+<h2 id="8-mit-kérnek-a-2025-ös-és-2026-os-vállalati-pályázatok">8. Mit kérnek a 2025-ös és 2026-os vállalati pályázatok?</h2>
+
+<p>A vállalati napelemes tenderek szempontrendszere gyorsan változik. A hangsúly elmozdul a puszta kWp-árról a teljes rendszerértéket mérő mutatók irányába, amelyek a termelést, a tárolást és a szabályozhatóságot együttesen értékelik.</p>
+
+<ul>
+  <li>A 2025-ös „Napelem vállalati pályázat 2025” típusú kiírásokban várhatóan előnyt élveznek:</li>
+  <li>Olyan projektek, amelyek napelemet akkumulátoros energiatárolással kombinálnak.</li>
+  <li>Olyan megoldások, amelyek fejlett energiamenedzsmentet tartalmaznak.</li>
+  <li>Döntő szempontok az ajánlatkérők részéről:</li>
+  <li>Önfelhasználás aránya (mennyi termelt energiát használ fel helyben a vállalat).</li>
+  <li>Csúcsterhelés-csökkentés, hálózati terhelés mérséklése.</li>
+  <li>Rugalmassági és hálózati szolgáltatásokba való bekapcsolódás képessége.</li>
+  <li>Teljes életciklus-költség (nemcsak beruházási, hanem üzemeltetési költségek is).</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img8.jpg" alt="Vállalati vezetők napelemes és akkumulátoros beruházási tervet néznek tárgyalóban" /></p>
+
+<h2 id="9-gyártástechnológia-és-fenntarthatóság-kisebb-ökológiai-lábnyom">9. Gyártástechnológia és fenntarthatóság: kisebb ökológiai lábnyom</h2>
+
+<p>A technológiai fejlődés nemcsak a hatásfokot és a költséget érinti, hanem az előállítás környezeti hatását is. A gyártók egyre inkább alacsonyabb hőmérsékletű, energiahatékonyabb gyártási folyamatokat vezetnek be, amelyek csökkentik a termékek beágyazott energiaigényét.</p>
+
+<ul>
+  <li>Fő irányok a gyártásban:</li>
+  <li>Alacsonyabb hőmérsékletű eljárások bevezetése.</li>
+  <li>Ezüst- és alumíniumfelhasználás csökkentése korszerű kontaktnyomtatási módszerekkel.</li>
+  <li>Anyagtakarékos cella- és modultervezés.</li>
+  <li>Várható hatás:</li>
+  <li>Kisebb ökológiai lábnyom.</li>
+  <li>További fajlagos költségcsökkenés.</li>
+  <li>Jobb illeszkedés az EU szigorodó fenntarthatósági elvárásaihoz.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img9.jpg" alt="Automatizált napelemgyártó sor robotkarokkal" /></p>
+
+<h2 id="10-rendszerintegrátorok-szerepe-tanácsadástól-az-üzemeltetésig">10. Rendszerintegrátorok szerepe: tanácsadástól az üzemeltetésig</h2>
+
+<p>A technológiai környezet gyors változása miatt felértékelődik a tapasztalt rendszerintegrátorok szerepe. Az olyan szereplők, mint az EU-SOLAR SE, nemcsak kivitelezőként jelennek meg, hanem stratégiai tanácsadóként és üzemeltetési partnerként is a vállalati szektorban.</p>
+
+<ul>
+  <li>Tipikus feladatok egy rendszertintegrátornál:</li>
+  <li>Igényfelmérés: Fogyasztási profil, csúcsigény, telephelyi adottságok elemzése.</li>
+  <li>Rendszertervezés: PV + akkumulátor + intelligens vezérlés összehangolt megtervezése.</li>
+  <li>Finanszírozási modellek kidolgozása: Pályázati lehetőségek, ESCO, hosszú távú szerződések.</li>
+  <li>Kivitelezés és beüzemelés.</li>
+  <li>Hosszú távú üzemeltetés, monitoring, prediktív karbantartás.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img10.jpg" alt="Mérnökök és pénzügyi szakértők napelemes projekt tervrajzokat néznek" /></p>
+
+<h2 id="11-milyen-döntéseket-érdemes-most-meghozni">11. Milyen döntéseket érdemes most meghozni?</h2>
+
+<p>Azok a vállalatok és intézmények, amelyek 2025–2026-ra napelemes beruházást terveznek, nagy technológiai kínálatból választhatnak. A kihívás nem az, hogy van-e megfelelő megoldás, hanem az, hogy az adott fogyasztási profilhoz és stratégiai célhoz igazodó konfiguráció szülessen.</p>
+
+<ul>
+  <li>Rövid távú szempontok:</li>
+  <li>Megbízható, tömegesen alkalmazott cellatechnológia választása (PERC, TOPCon, HIT, IBC).</li>
+  <li>Akkumulátoros energiatárolás integrálása, ha fontos az önfelhasználás és a csúcsvágás.</li>
+  <li>Okos mérés és monitoring beépítése már az induláskor.</li>
+  <li>Közép- és hosszú távú szempontok:</li>
+  <li>Előkészített infrastruktúra a későbbi bővítésekhez (további panelek, nagyobb akkukapacitás).</li>
+  <li>Olyan rendszerarchitektúra, amely később képes bekapcsolódni hálózati és piaci szolgáltatásokba.</li>
+  <li>BIPV és esztétikai szempontok mérlegelése új építéseknél és nagyobb felújításoknál.</li>
+</ul>
+
+<p><img src="/assets/images/leg-jabb-napelemes-technol-gi-k-2025-2026-mi-j-n-a/img11.jpg" alt="Ipari telephely madártávlatból napelemparkkal és raktárakkal" /></p>
+
+<h2 id="12-összegzés-felkészülés-a-következő-évtizedre">12. Összegzés: felkészülés a következő évtizedre</h2>
+
+<p>A 2025–2026-os időszak a napelemes piacon nemcsak technológiai frissítést, hanem gondolkodásmódbeli változást is jelent. A kérdés már nem az, hogy érdemes-e napenergiában gondolkodni, hanem az, hogy milyen kombinációban: fejlett cellatechnológia, bifaciális vagy BIPV modul, akkumulátoros tárolás és okos vezérlés együttese adja a jövőálló rendszert.</p>
+
+<p>Azok a szereplők, akik időben felismerik az önfelhasználás, a rugalmassági szolgáltatások és a teljes életciklus-költség jelentőségét, versenyelőnyhöz jutnak. A napenergia – megfelelően megválasztott technológiával és szakszerű rendszerintegrációval – kulcseszközzé válik az energiakitettség csökkentésében és a hosszú távú üzleti stabilitás megteremtésében.</p>]]></content><author><name>Start Bootstrap</name></author><summary type="html"><![CDATA[Áttekintés a 2025–2026-ra várható napelemes és energiatárolási technológiákról: hatásfok-növelés, perovszkit–szilícium tandem cellák, bifaciális és épületbe integrált rendszerek, lítium-ion és LFP akkumulátorok, valamint okos hálózati integráció. A cikk bemutatja, milyen irányok határozzák meg a vállalati és intézményi beruházások döntéseit a következő években.]]></summary></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="https://ai-quantum.ba/2020/01/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2020-01-31T14:45:13+00:00</published><updated>2020-01-31T14:45:13+00:00</updated><id>https://ai-quantum.ba/2020/01/31/man-must-explore</id><content type="html" xml:base="https://ai-quantum.ba/2020/01/31/man-must-explore.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
